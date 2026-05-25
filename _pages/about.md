@@ -15,10 +15,6 @@ I am actively looking for internship opportunities.
 
 Feel free to contact me via email.
 # Publications 
-- **Repetitive Action Counting with Hybrid Temporal Relation Modeling**  
-  Kun Li, **Xinge Peng**(*student first author*), Dan Guo, Xun Yang, Meng Wang
-  *IEEE Transactions on Multimedia*, 2025.
-
 - **IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring**  
   **Xinge Peng**, Yiting Lu, Xin Li, Zhibo Chen
   *ICML*, 2026.
@@ -27,6 +23,9 @@ Feel free to contact me via email.
   **Xinge Peng**, Yiting Lu, Tianwu Zhi, Wen Wen, Jianzhao Liu, Xin Li, Zhibo Chen  
   *preprint*, 2026.  
 
+- **Repetitive Action Counting with Hybrid Temporal Relation Modeling**  
+  Kun Li, **Xinge Peng**(*student first author*), Dan Guo, Xun Yang, Meng Wang
+  *IEEE Transactions on Multimedia*, 2025.
 
 # Education
 - 2026 – 2029, PHD., University of Science and Technology of China
