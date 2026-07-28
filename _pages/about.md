@@ -11,9 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Research Interests: VLM, Agent and Physical AI.
 
-I am actively looking for internship opportunities.
+I am actively looking for internship/collabrations. 
 
-Feel free to contact me via email.
+Feel free to contact me via email or Wechat.
 # Publications 
 - **IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring**  
   **Xinge Peng**, Yiting Lu, Xin Li, Zhibo Chen
@@ -28,10 +28,8 @@ Feel free to contact me via email.
   *IEEE Transactions on Multimedia*, 2025.
 
 # Education
-- 2026 – 2029, PHD., University of Science and Technology of China
-- 2024 – 2026, M.S., University of Science and Technology of China
-- 2020 – 2024, B.Eng., Hefei University of Technology
+- 2024 – 2029, PhD, University of Science and Technology of China
+- 2020 – 2024, B.Eng, Hefei University of Technology
 
 # Internships
-- 2025.03 – 2025.09, ByteDance
-- 2026.05 – Present, Shanghai Artificial Intelligence Laboratory
+- 2025.03 – 2025.09, ByteDance 
