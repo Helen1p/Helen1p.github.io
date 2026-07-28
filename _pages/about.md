@@ -20,6 +20,3 @@ Feel free to contact me via email or WeChat.
 # Education
 - 2024 – 2029, PhD, University of Science and Technology of China
 - 2020 – 2024, B.Eng, Hefei University of Technology
-
-# Internships
-- 2025.03 – 2025.09, ByteDance 
