@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+Hello, I'm Xinge Peng, currently a second-year PhD student at the University of Science and Technology of China.
+
 Research Interests: VLM, Agent and Physical AI.
 
 I am actively looking for internship/collabrations. 
 
-Feel free to contact me via email or Wechat(pxg_dd).
+Feel free to contact me via email or Wechat.
 
 # Education
 - 2024 – 2029, PhD, University of Science and Technology of China
