@@ -13,10 +13,10 @@ Research Interests: VLM, Agent and Physical AI.
 
 I am actively looking for internship/collabrations. 
 
-Feel free to contact me via email or Wechat.
+Feel free to contact me via email or Wechat(pxg_dd).
 # Publications 
 - **IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring**  
-  **Xinge Peng**, Yiting Lu, Xin Li, Zhibo Chen
+  **Xinge Peng**, Yiting Lu, Xin Li, Zhibo Chen  
   *ICML*, 2026.
 
 - **PhysVista: A Benchmark for Physical Intelligence in Vision-Language Models via Seeing, Reasoning, and Assessment**  
@@ -24,7 +24,7 @@ Feel free to contact me via email or Wechat.
   *preprint*, 2026.  
 
 - **Repetitive Action Counting with Hybrid Temporal Relation Modeling**  
-  Kun Li, **Xinge Peng**(*student first author*), Dan Guo, Xun Yang, Meng Wang
+  Kun Li, **Xinge Peng**, Dan Guo, Xun Yang, Meng Wang
   *IEEE Transactions on Multimedia*, 2025.
 
 # Education
