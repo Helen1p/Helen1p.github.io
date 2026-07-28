@@ -11,9 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Research Interests: post-training of vision-language models, long-horizon agents, and physical AI.
 
-I am actively seeking internship and collaboration opportunities.
+Open to internships and collaborations.
 
-Feel free to contact me via email or WeChat.
+Feel free to reach out via email or WeChat.
 
 # Education
 - 2024 – 2029, PhD, University of Science and Technology of China
