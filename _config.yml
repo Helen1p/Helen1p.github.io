@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinge Peng"
+  name             : "彭莘格(Xinge Peng)"
   # avatar           : 
   bio              : 
   location         : 
@@ -28,6 +28,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BXQdrmUAAAAJ&hl"
   email            : "xg.pengv@gmail.com"
+  wechat           : "pxg_dd"
   researchgate     : 
   uri              :
   bitbucket        :
