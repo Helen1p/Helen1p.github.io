@@ -13,9 +13,9 @@ Hello, I'm Xinge Peng, currently a second-year PhD student at the University of 
 
 Research Interests: VLM, Agent and Physical AI.
 
-I am actively looking for internship/collabrations. 
+I am actively seeking internship and collaboration opportunities.
 
-Feel free to contact me via email or Wechat.
+Feel free to contact me via email or WeChat.
 
 # Education
 - 2024 – 2029, PhD, University of Science and Technology of China
