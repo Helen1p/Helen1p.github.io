@@ -17,12 +17,12 @@ Open to internships and collaborations.
 
 I also work with startups.
 
+# Contact
 Feel free to reach out via email or WeChat.
 
 Email: xg.pengv[at]gmail.com
 
 WeChat: pxg_dd
-
 
 # Education
 - 2024 – 2029, PhD, University of Science and Technology of China
