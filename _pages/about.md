@@ -18,8 +18,6 @@ Open to internships and collaborations.
 I also work with startups.
 
 # Contact
-Feel free to reach out via email or WeChat.
-
 Email: xg.pengv[at]gmail.com
 
 WeChat: pxg_dd
